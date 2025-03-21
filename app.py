@@ -76,7 +76,7 @@ button {
     </style>
 </head>
 <body>
-   
+
 <header>
     <h1>My Favorite Recipes</h1>
     <p>A collection of delicious recipes to try at home</p>
