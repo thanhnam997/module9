@@ -76,7 +76,7 @@ button {
     </style>
 </head>
 <body>
-   # Partner 2 changes this in the base_template
+   
 <header>
     <h1>My Favorite Recipes</h1>
     <p>A collection of delicious recipes to try at home</p>
